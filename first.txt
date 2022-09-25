@@ -2,4 +2,5 @@ test
 追加記載
 ' git add
 ' git commit
-' git remove
+' git rm
+' git status
