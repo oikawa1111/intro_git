@@ -1,4 +1,2 @@
 test
-追加記載aaaaa
-.git add
-.git commit
+追加記載
